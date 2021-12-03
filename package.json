@@ -2,7 +2,7 @@
     "name": "sharp-bright-purple",
     "displayName": "Sharp Bright Purple",
     "description": "A color theme for Sharp, Fast, and Clean Programmers.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "EesaKhokhar",
     "engines": {
         "vscode": "^1.62.0"
