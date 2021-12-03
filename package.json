@@ -1,0 +1,29 @@
+{
+    "name": "sharp-bright-purple",
+    "displayName": "Sharp Bright Purple",
+    "description": "A color theme for Sharp, Fast, and Clean Programmers.",
+    "version": "0.0.1",
+    "publisher": "EesaKhokhar",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "keywords": [
+        "theme",
+        "bright theme",
+        "eesa khokhar",
+        "purple theme",
+        "purple"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sharp Bright Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sharp Bright Purple-color-theme.json"
+            }
+        ]
+    }
+}
